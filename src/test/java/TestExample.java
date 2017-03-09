@@ -5,9 +5,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by Vincent on 23/2/2017.
- */
 public class TestExample {
 
     private IAdmin admin;
